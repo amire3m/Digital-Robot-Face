@@ -23,3 +23,11 @@
 2. کتابخانه‌های مورد نیاز را نصب کنید:
    ```bash
    pip install pygame sounddevice numpy
+
+فایل digital_robot_face.py را اجرا کنید:
+
+```bash
+python digital_robot_face.py
+با کلیدهای 1 تا 5 حالت چهره را تغییر دهید.
+
+برای خروج، کلید ESC را بزنید.
