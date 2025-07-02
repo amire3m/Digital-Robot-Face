@@ -64,11 +64,11 @@
 
 ---
 
-> ساخته شده توسط AmirHossein Esmaeilbeigi (Amir Esm)
+> ساخته شده توسط AmirHossein Esmaeilbeigi (AmirE3m)
 
 ---
 
-## راه‌های ارتباطی (اختیاری)
+## راه‌های ارتباطی
 
 - [اینستاگرام](https://instagram.com/amire3m)  
 - [کانال تلگرام](https://t.me/amire3m)  
