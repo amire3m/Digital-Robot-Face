@@ -32,6 +32,7 @@
     ```bash
     python digital_robot_face.py
     ```
+    
 
 4. تغییر حالت چهره با کلیدهای 1 تا 5.
 
